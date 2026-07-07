@@ -26,7 +26,7 @@ struct MVHabitDetailView: View {
     }
 
     private var habitSection: some View {
-        Section("Details") {
+        Section("Detailssss") {
             LabeledContent("Frequency", value: habit.frequency.displayName)
             if !habit.habitDescription.isEmpty {
                 Text(habit.habitDescription)
