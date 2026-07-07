@@ -17,7 +17,7 @@ struct MVHabitListView: View {
                 habitList
             }
         }
-        .navigationTitle("Habits (MV)")
+        .navigationTitle("Habits (John Thor)")
         .toolbar {
             ToolbarItem(placement: .primaryAction) {
                 Button("Add Habit", systemImage: "plus", action: showAddHabit)

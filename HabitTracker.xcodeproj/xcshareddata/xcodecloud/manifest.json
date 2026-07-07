@@ -1,0 +1,9 @@
+{
+  "id" : "7c7edce6-f3ce-4310-b90c-497a4205646d",
+  "targets" : [
+    {
+      "id" : "6a97572f-07d9-41de-a40e-09084a28262d",
+      "name" : "HabitTracker"
+    }
+  ]
+}
